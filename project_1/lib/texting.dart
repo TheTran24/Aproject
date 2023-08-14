@@ -11,7 +11,7 @@ final String text;
   Widget build(context) {
     return Text(
       text,
-      style: const TextStyle(color: Color.fromARGB(255, 38, 182, 81), fontSize: 12.4),
+      style: const TextStyle(color: Color.fromARGB(255, 96, 6, 99), fontSize: 12.4),
     );
   }
 }
